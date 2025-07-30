@@ -54,10 +54,6 @@ Profissional com sólida experiência na área de dados, atuando como **Engenhei
 - **Desenvolvimento de pipelines ETL/ELT** escaláveis com Airflow e Databricks
 - **Otimização de consultas** e modelagem de dados para BI e Analytics
 
-## 📊 Estatísticas do GitHub
-
-[![Seus Status no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)](https://github.com/TacilioRodriguez)
-
 ## 📫 Como me encontrar
 
 - LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/taciliorodrigues/)

@@ -38,7 +38,7 @@ Profissional com sólida experiência na área de dados, atuando como **Engenhei
 ### Armazenamento
 ![Snowflake](https://img.shields.io/badge/Snowflake-%23296BFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server] (https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📜 Certificações
 

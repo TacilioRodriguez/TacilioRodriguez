@@ -13,6 +13,7 @@ Profissional com sólida experiência na área de dados, atuando como **Engenhei
 - Desenvolvimento de pipelines robustos para processamento de dados
 - Arquitetura de dados escalável e otimizada
 - Migração e modernização de ambientes de dados
+- Controle de custos FinOps
 
 ## 🛠️ Habilidades e Tecnologias
 
@@ -33,6 +34,7 @@ Profissional com sólida experiência na área de dados, atuando como **Engenhei
 
 ### Orquestração
 ![Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt--core-%3E=1.6%20%3C=1.9.x-orange?logo=dbt)
 
 
 ### Armazenamento
@@ -51,7 +53,7 @@ Profissional com sólida experiência na área de dados, atuando como **Engenhei
 - **Migração de ambientes on-premises para cloud** (AWS/Azure)
 - **Modernização de arquitetura de dados** utilizando abordagem em camadas (medalhão)
 - **Implementação de Delta Lake** para data lakes modernos
-- **Desenvolvimento de pipelines ETL/ELT** escaláveis com Airflow e Databricks
+- **Desenvolvimento de pipelines ETL/ELT** escaláveis com Airflow, Databricks e DBT
 - **Otimização de consultas** e modelagem de dados para BI e Analytics
 
 ## 📫 Como me encontrar

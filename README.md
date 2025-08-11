@@ -58,6 +58,6 @@ Profissional com sólida experiência na área de dados, atuando como **Engenhei
 
 ## 📫 Como me encontrar
 
-- LinkedIn: (https://www.linkedin.com/in/taciliorodrigues/)
+- LinkedIn: https://www.linkedin.com/in/taciliorodrigues/
 - E-mail: taciliorodriguez@gmail.com
 
